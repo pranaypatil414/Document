@@ -108,9 +108,9 @@ Note: The IP need to be from your Network Subnet.
 
 ---
 
-## Step 5: Configure Wake-On-LAN (WOL)
+## Step 5: Configure Wake-On-LAN WOL  (Optional)
 
-1. **Ensure WOL is enabled in BIOS**: (Optional)
+1. **Ensure WOL is enabled in BIOS**:
    - If WOL is not available in BIOS, your system does not support it.
 
 2. Install the required tools:
