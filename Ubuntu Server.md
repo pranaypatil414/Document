@@ -1,7 +1,4 @@
 # Ubuntu Server
-
-**Note:** Format the hard drive and the pen drive in **NTFS**.
-
 ---
 
 ### Step 1: Create a Bootable Pendrive
